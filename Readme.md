@@ -1,4 +1,4 @@
-# array-has
+# array-has [![Circle CI](https://circleci.com/gh/vdemedes/array-has.svg?style=svg)](https://circleci.com/gh/vdemedes/array-has)
 
 Array#includes with support for regular expressions.
 
@@ -22,6 +22,8 @@ has(['Hello', 'world'], /hello/i).should.equal(true);
 
 
 ### Tests
+
+[![Circle CI](https://circleci.com/gh/vdemedes/array-has.svg?style=svg)](https://circleci.com/gh/vdemedes/array-has)
 
 ```
 $ make test
