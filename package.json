@@ -1,0 +1,36 @@
+{
+  "name": "array-has",
+  "version": "1.0.0",
+  "description": "Array#includes with support for regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdemedes/array-has.git"
+  },
+  "keywords": [
+    "array",
+    "arr",
+    "array-contains",
+    "arr-contains",
+    "arr-includes",
+    "array-includes"
+  ],
+  "author": "Vadim Demedes <vdemedes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdemedes/array-has/issues"
+  },
+  "homepage": "https://github.com/vdemedes/array-has#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "istanbul": "^0.3.17",
+    "make-lint": "^1.0.1",
+    "mocha": "^2.2.5"
+  },
+  "files": [
+    "index.js"
+  ]
+}
